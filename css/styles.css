@@ -47,10 +47,11 @@ float: left;
   background-color: aqua;
   text-align: center;
 
+
 }
 
 .jumbotron {
-  background-color: aliceblue;
+  background-color: aqua;
 }
 
 #lk {
@@ -70,5 +71,22 @@ padding: 0;
 }
 
 body {
-  background-color: aqua;
+background-color: aqua;
+}
+
+.btn {
+font-weight: bolder;
+background-color: red;
+}
+
+@media screen and  (max-width: 650px){
+.col { float: none;
+}
+
+}
+
+@media screen and  (max-width: 1000px){
+.col { float: none;
+}
+
 }
