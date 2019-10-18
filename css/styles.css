@@ -90,3 +90,17 @@ background-color: red;
 }
 
 }
+
+.col span {
+text-align: center;
+}
+
+.col {
+border: 50px blue;
+padding: 30px;
+float: left;
+width: 700px;
+border-style: ridge;
+margin: 50px;
+
+}
