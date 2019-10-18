@@ -11,5 +11,9 @@
 #Infointro {
   text-align: center;
   font-size: 50px
-  
+
+}
+
+#container {
+  align-items: left;
 }
