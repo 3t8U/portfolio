@@ -102,5 +102,12 @@ float: left;
 width: 700px;
 border-style: ridge;
 margin: 50px;
+text-align: center;
+
+}
+#vid {
+display: block;
+float: right;
+
 
 }
