@@ -1,30 +1,112 @@
 #myheader {
   font-family: fantasy;
   text-align: center;
+  font-size: 100px;
+
 }
 
 #HS {
+width: 300px;
+height: 500px;
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
-
 }
 
 #p1 {
-display: block;
+width: 300px;
+height: 600px;display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
+float: left;
 
 }
 
-#p2 {
+#Infointro {
+  text-align: center;
+  font-size: 50px
+
+}
+
+.container {
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items: left;
+}
+
+.well{
+  display: block;
+  background-color: aqua;
+  text-align: center;
+
+
+}
+
+.jumbotron {
+  background-color: aqua;
+}
+
+#lk {
+  color: purple;
+}
+
+#welcome {
+text-align: center;
+font-family: fantasy;
+font-size: 20px;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+body {
+background-color: aqua;
+}
+
+.btn {
+font-weight: bolder;
+background-color: red;
+}
+
+@media screen and  (max-width: 650px){
+.col { float: none;
+}
+
+}
+
+@media screen and  (max-width: 1000px){
+.col { float: none;
+}
+
+}
+
+.col span {
+text-align: center;
+}
+
+.col {
+border: 50px blue;
+padding: 30px;
+float: left;
+width: 700px;
+border-style: ridge;
+margin: 50px;
+text-align: center;
+
+}
+#vid {
 display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
- 
+float: right;
+
+
 }
 #Infointro {
   text-align: center;
