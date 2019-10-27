@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is the most current version of my profile._
+_This is the most current version of my profile.Page can also be viewed through GitHub Pages @ https://3t8u.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
